@@ -1,4 +1,3 @@
-#  Straight Line Vectorization on PL/PGSQL User-DefinedFunctions in a Compilation-Based In-Memory Database
 ### Prithvi Gudapati and Tanuj Nayak
 
 ## Proposal
