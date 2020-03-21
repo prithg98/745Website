@@ -1,5 +1,5 @@
 ### Prithvi Gudapati and Tanuj Nayak
 
 ## Proposal
-[Proposal Writeup](15_400_Proposal.pdf)
+[Proposal Writeup](15_745_Project_Proposal.pdf)
 
